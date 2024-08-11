@@ -4,6 +4,7 @@ Instructions (Local):
 1. Navigate to client folder
 2. run 'npm start' to initiate frontend
 3. Navigate to flask-server folder
-4. run 'python3 server.py' to initiate backend
-5. Upload pdf file or link
-6. Press download button to get a CSV file with pdf information
+4. run 'ollama pull llama3' to support all genAI functionality
+5. run 'python3 server.py' to initiate backend
+6. Upload pdf file or link
+7. Press download button to get a CSV file with pdf information
